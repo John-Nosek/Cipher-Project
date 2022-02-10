@@ -7,7 +7,7 @@ The Vigenère Cipher - The Vigenère cipher is similar to the Caeser method, but
 #
 The main program recieves a text file to either encrypt or decrypt using a Caeser or Vigenère Cipher. If any positive integer is inputted as the key, then that is the shift for the Caeser Cipher. If a '-1' is inputted, then the user is prompted for a text file that will be used as a key for a Vigenère Cipher.
 #
-The second program uses an inputed text file and calculates the Index of Coincidence. 
+The IOC program uses an inputed text file and calculates the Index of Coincidence. The Index of Coinicidence is a measure of how likely it is to draw two matching letters by randomly selecting two letters from a given text.
 #
 For example:
 #
