@@ -10,6 +10,7 @@ The main program recieves a text file to either encrypt or decrypt using a Caese
 The second program uses an inputed text file and calculates the Index of Coincidence. 
 #
 For example:
+#
 The file: Book2.txt is the file being encrypted.
 #
 The file: key.txt is used as the key for the Vigenère Cipher (the key is 'test').
