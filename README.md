@@ -15,4 +15,4 @@ The file: Book2.txt is the file being encrypted.
 #
 The file: key.txt is used as the key for the Vigenère Cipher (the key is 'test').
 #
-The file: output.txt is the output after running the program.
+The file: output.txt is the output of encrypted text after running the program.
