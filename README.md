@@ -5,7 +5,6 @@ The first program recieves a text file to either encrypt or decrypt using a Caes
 #
 The second program uses an inputed text file and calculates the Index of Coincidence. 
 #
-#
 For example:
 The file: Book2.txt is the file being encrypted.
 #
