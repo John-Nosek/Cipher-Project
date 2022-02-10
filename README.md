@@ -11,7 +11,5 @@ The second program uses an inputed text file and calculates the Index of Coincid
 #
 For example:
 The file: Book2.txt is the file being encrypted.
-#
 The file: key.txt is used as the key for the Vigenère Cipher (the key is 'test').
-#
 The file: output.txt is the output after running the program.
